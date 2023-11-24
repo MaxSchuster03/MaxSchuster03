@@ -1,4 +1,4 @@
-Over mij
+## Over mij
 Ik ben Max Schuster, een gepassioneerde 20-jarige softwareontwikkelaar die gedreven is om creatieve oplossingen te vinden en te ontwikkelen met behulp van technologie. Mijn focus ligt momenteel op het verkennen en verbeteren van mijn vaardigheden in HTML, CSS en JavaScript, terwijl ik tegelijkertijd opensta voor het leren van nieuwe technologieën en concepten binnen de softwareontwikkeling.
 
 Vaardigheden
